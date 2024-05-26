@@ -1,0 +1,154 @@
+F:\HR Project\HR Project\bin\Debug\HR Project.exe
+F:\HR Project\HR Project\bin\Debug\HR Project.pdb
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+F:\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+F:\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+D:\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+D:\HR Project\HR Project\bin\Debug\HR Project.exe
+D:\HR Project\HR Project\bin\Debug\HR Project.pdb
+D:\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+E:\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+E:\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+E:\HR Project\HR Project\bin\Debug\HR Project.exe
+E:\HR Project\HR Project\bin\Debug\HR Project.pdb
+E:\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Booking.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Booking.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+E:\BCA-III\HR Project\HR Project\bin\Debug\HR Project.exe
+E:\BCA-III\HR Project\HR Project\bin\Debug\HR Project.pdb
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+E:\Samruddhi\BCA-III\HR Project\HR Project\bin\Debug\HR Project.exe
+E:\Samruddhi\BCA-III\HR Project\HR Project\bin\Debug\HR Project.pdb
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Booking.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+E:\Samruddhi\BCA-III\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+F:\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\bin\Debug\HR Project.exe
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\bin\Debug\HR Project.pdb
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+E:\HR Project\HR Project\bin\Debug\HR Project.exe.config
+E:\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+E:\HR Project\HR Project\bin\Debug\HR Database.sdf
+F:\HR Project\HR Project\bin\Debug\HR Project.exe.config
+F:\HR Project\HR Project\bin\Debug\HR Database.sdf
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\bin\Debug\HR Project.exe.config
+F:\Project Design\HR Project\HR Project\bin\Debug\HR Project.exe.config
+F:\Project Design\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+F:\Project Design\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Bookings.resources
+E:\BCA-III\HR Project\HR Project\bin\Debug\HR Project.exe.config
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Bookings.resources
+E:\BCA-III\HR Project\HR Project\obj\x86\Debug\HR_Project.Reports.resources
+D:\HR Project\HR Project\bin\Debug\HR Project.exe.config
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Bookings.resources
+D:\HR Project\HR Project\obj\x86\Debug\HR_Project.Reports.resources
+C:\HR Project\HR Project\bin\Debug\HR Project.exe.config
+C:\HR Project\HR Project\obj\x86\Debug\HR Project.exe
+C:\HR Project\HR Project\obj\x86\Debug\HR Project.pdb
+C:\HR Project\HR Project\bin\Debug\HR Project.exe
+C:\HR Project\HR Project\bin\Debug\HR Project.pdb
+C:\HR Project\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Bookings.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Login.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Main.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Reports.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+C:\HR Project\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+C:\HR Project\HR Project\obj\x86\Debug\RdlCompile.cache
+C:\HR Project\HR Project\obj\x86\Debug\RdlCompile.compiled
+C:\HR Project\HR Project\obj\x86\Debug\HR_Project.CategoriesReportView.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.Reports.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\RdlCompile.cache
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\RdlCompile.compiled
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.ReportForm1.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.ReportForm2.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.ReportForm3.resources
+C:\Users\samru\OneDrive\Desktop\HR Project\HR Project\obj\x86\Debug\HR_Project.ReportForm4.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\bin\Debug\HR Project.exe.config
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR Project.exe
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR Project.pdb
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\bin\Debug\HR Project.exe
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\bin\Debug\HR Project.pdb
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR Project.csprojResolveAssemblyReference.cache
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Analytics.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Bookings.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Categories.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Customer.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Login.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Main.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Properties.Resources.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.ReportForm1.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.ReportForm2.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.ReportForm3.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Reports.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Rooms.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.Staff.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.User.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR Project.csproj.GenerateResource.Cache
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\RdlCompile.cache
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\RdlCompile.compiled
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.ReportForm5.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.DateWise_Bookings.resources
+C:\Users\samru\OneDrive\Desktop\HR Project - Copy\HR Project\obj\x86\Debug\HR_Project.BillingForm.resources
